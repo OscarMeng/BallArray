@@ -1,0 +1,5 @@
+dynamic   sinc                100       1         ab        cd        
+dynamic   正弦线              200       1         ab        cd        
+dynamic   正弦线              10        10        b         c         
+dynamic   正弦线              4         4         ab        cd        
+dynamic   正弦线              6         6         ab        cd        

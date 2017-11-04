@@ -1,0 +1,2 @@
+dynamic   正弦线              5         5         ab        cd        
+dynamic   正弦线              10        10        ab        cd        

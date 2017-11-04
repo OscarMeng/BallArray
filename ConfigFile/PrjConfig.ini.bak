@@ -1,0 +1,19 @@
+[OpenProject]
+Path =D:\程序\BallArray\Projects
+[ProjectPath]
+Path =D:\程序\BallArray\Projects\静态调试图.txt
+[BinPath]
+Path =D:\程序\BallArray\BinData
+[AddPath]
+Path =D:\程序\BallArray\CurveData\static\sin.txt
+Type =static
+Name =sin
+[PosParam]
+PosLimit =1
+PosZero  =2
+PosCeil  =3
+PosStart =4
+PosDown1 =8
+PosDown2 =9
+PosDown3 =10
+
